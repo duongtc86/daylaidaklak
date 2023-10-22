@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{541:function(n,t,e){"use strict";e.r(t);var c={data:function(){return{}}},l=e(56),component=Object(l.a)(c,(function(){return(0,this._self._c)("div",[this._v("thí nangban")])}),[],!1,null,null,null);t.default=component.exports}}]);
