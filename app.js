@@ -243,7 +243,10 @@ app.get("/", function (req, res) {
   res.render("index");
   res.end();
 });
-
+app.get("/api", function (req, res) {
+  res.render("api");
+  res.end();
+});
 // API kiểm tra kết nối
 app.get("/api/status", async function (req, res) {
   const status = await db.checkConnection();
